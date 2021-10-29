@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="buttons.css">
+
 <h1 align="center"> <img src="https://img.icons8.com/color/96/000000/html.png"/> </h1> 
 
 
@@ -101,5 +103,70 @@
 </html>
 ```
 <img src="comments.png">
+<br>
+<br>
 
 * As in the above screenshot you can see a special tag ```<!-- -->``` whatever you write between this tag won't be visible to user. This is how comments work in html.
+<br>
+<br>
+<br>
+<h1 align="center"> Some more tags: </h1>
+
+<table align = "center"  style="width: 100%;">
+<tr >
+    <th style="width: 20%; font: 20px">Tag</th>
+    <th style="width: 40%">Usage</th>
+    <th style="width: 40%">More</th>
+</tr>
+<tr>
+    <td>h1</td>
+    <td>Heading tag <i>similar tag: h2,h3,h4,h5,h6<i></td>
+    <td><a href="https://www.w3schools.com/tags/tag_hn.asp"><button class="button-54" role="button">Heading tag</button></a></td>
+</tr>
+<tr>
+    <td>p</td>
+    <td>Paragraph tag</td>
+    <td><a href="https://www.w3schools.com/tags/tag_p.asp"><button class="button-54" role="button">P-tag</button></a></td>
+</tr>
+<tr>
+    <td>input</td>
+    <td>Input field tag</td>
+    <td><a href="https://www.w3schools.com/tags/tag_p.asp"><button class="button-54" role="button">Input tag</button></a></td>
+</tr>
+<tr>
+    <td>ol</td>
+    <td>Ordered List</td>
+    <td><a href="https://www.w3schools.com/tags/tag_ol.asp"><button class="button-54" role="button">Ordered list</button></a></td>
+</tr>
+<tr>
+    <td>table</td>
+    <td>Table Creation</td>
+    <td><a href="https://www.w3schools.com/tags/tag_table.asp"><button class="button-54" role="button">for tables</button></a></td>
+</tr>
+<tr>
+    <td>ul</td>
+    <td>Unordered List</td>
+    <td><a href="https://www.w3schools.com/tags/tag_ul.asp"><button class="button-54" role="button">Lets create lists</button></a></td>
+</tr>
+<tr>
+    <td>button</td>
+    <td>Buttons Tag</td>
+    <td><a href="https://www.w3schools.com/tags/tag_button.asp"><button class="button-54" role="button">More on Buttons</button></a></td>
+</tr>
+<tr>
+    <td>div</td>
+    <td>Creation of divs </td>
+    <td><a href="https://www.w3schools.com/tags/tag_div.asp"><button class="button-54" role="button">What is div?</button></a></td>
+</tr>
+<tr>
+    <td>header</td>
+    <td>Header tag</td>
+    <td><a href="https://www.w3schools.com/tags/tag_header.asp"><button class="button-54" role="button">Header?</button></a></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+
+<h2> These are all the basic of HTML & its tags.</h2>
