@@ -170,3 +170,8 @@
 <br>
 
 <h2> These are all the basic of HTML & its tags.</h2>
+
+* Some of the best Reading & videos for basic html - 
+    * <a href = "https://dev.to/jordanholtdev/how-to-create-a-web-page-with-html-26ho">How to create a web page with HTML </a> (Article - Dev.to)
+    * <a href="https://www.youtube.com/watch?v=BsDoLVMnmZs">HTML - Code with Harry</a> (Hindi-Youtube)
+    
